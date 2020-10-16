@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1602869890264,5487,/-39,200,OK,Tasks 1-1,text,true,,6890,440,1,1,https://demo.nopcommerce.com/,5483,0,3940
+1602869895756,1235,/search,200,OK,Tasks 1-1,text,true,,6553,421,1,1,https://demo.nopcommerce.com/search?q=laptop,1235,0,0
+1602869897700,1470,/asus-n551jk-xo076h-laptop,200,OK,Tasks 1-1,text,true,,11627,446,1,1,https://demo.nopcommerce.com/asus-n551jk-xo076h-laptop,1470,0,0
+1602869899173,1053,/addProductToCard,200,OK,Tasks 1-1,text,true,,2016,773,1,1,https://demo.nopcommerce.com/addproducttocart/details/5/1,1053,0,0
+1602869900228,413,/cart,200,OK,Tasks 1-1,text,true,,4859,435,1,1,https://demo.nopcommerce.com/cart,413,0,0
+1602869900644,503,/search,200,OK,Tasks 1-1,text,true,,6553,421,1,1,https://demo.nopcommerce.com/search?q=laptop,503,0,0
+1602869901212,1474,/lenovo-thinkpad-x1-carbon-laptop,200,OK,Tasks 1-1,text,true,,11580,453,1,1,https://demo.nopcommerce.com/lenovo-thinkpad-x1-carbon-laptop,1474,0,0
+1602869902688,1094,/addProductToCard,200,OK,Tasks 1-1,text,true,,2016,773,1,1,https://demo.nopcommerce.com/addproducttocart/details/5/1,1094,0,0
+1602869903784,350,/cart,200,OK,Tasks 1-1,text,true,,4822,435,1,1,https://demo.nopcommerce.com/cart,350,0,0
